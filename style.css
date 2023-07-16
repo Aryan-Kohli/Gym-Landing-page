@@ -87,4 +87,45 @@ h1{
     font-size: 150px;
 
 }
-
+@media screen and (max-width:440px) {
+    #qid{
+        font-size:40px;
+    }
+    .mybtn{
+        width:200px;
+        height:100px;
+        font-size:50px;
+    }
+    #aboutushead{
+        font-size:40px;     
+    }
+    #aboutuspara{
+        font-size: 15px;
+    }
+    #sloganhead{
+        font-size:25px;     
+    }
+    #sloganwriter{
+        font-size:20px;     
+    }
+    #whychooseus{
+        font-size:40px;
+    }
+    .herolines{
+        font-size:15px;
+    }
+    .imghero{
+        width:300px;
+        height:300px;
+    }
+    .ekimg{
+        width:305px;
+    }
+    .heroimg{
+        width:200px;
+        /* width:100%; */
+    }
+    .herolines{
+        width:100%;
+    }
+}
